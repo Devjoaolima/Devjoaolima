@@ -45,4 +45,4 @@
   
   💬 Sobre Mim
   
- Bacharel em engenheiro de Controle e Automação |Analista e Desenvolvedor de Sistemas;
+ Bacharel em Engenharia de Controle e Automação | Analista e Desenvolvedor de Sistemas;
